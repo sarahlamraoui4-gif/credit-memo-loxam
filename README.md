@@ -1,4 +1,5 @@
 # credit-memo-loxam
+# Credit Memo — Loxam Group
 
 Independent credit analysis of Loxam Group, Europe's leading equipment 
 rental company (€2.6bn revenue, 30 countries).

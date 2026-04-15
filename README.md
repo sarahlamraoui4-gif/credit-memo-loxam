@@ -1,2 +1,2 @@
 # credit-memo-loxam
-Credit analysis and risk projects, Private Debt
+Credit analysis and risk projects (Loxam)
